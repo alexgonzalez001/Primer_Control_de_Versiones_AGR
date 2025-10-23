@@ -13,4 +13,9 @@ public class App {
         entrada.close();
 
     }
+    //Documentar
+    //*author=AGR 
+    //* @version=1.0
+    //* @date=2025--12
+    //*/
 }
